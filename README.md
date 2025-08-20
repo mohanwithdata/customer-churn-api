@@ -1,12 +1,12 @@
 # 📊 Customer Churn Prediction API  
 
-![Last Commit](https://img.shields.io/github/last-commit/your-username/customer-churn-api)  
-![Repo Size](https://img.shields.io/github/repo-size/your-username/customer-churn-api)  
-![Languages](https://img.shields.io/github/languages/count/your-username/customer-churn-api)  
-![Top Language](https://img.shields.io/github/languages/top/your-username/customer-churn-api)  
-![Issues](https://img.shields.io/github/issues/your-username/customer-churn-api)  
-![Pull Requests](https://img.shields.io/github/issues-pr/your-username/customer-churn-api)  
-![License](https://img.shields.io/github/license/your-username/customer-churn-api)  
+![Last Commit](https://img.shields.io/github/last-commit/mohanwithdata/customer-churn-api)  
+![Repo Size](https://img.shields.io/github/repo-size/mohanwithdata/customer-churn-api)  
+![Languages](https://img.shields.io/github/languages/count/mohanwithdata/customer-churn-api)  
+![Top Language](https://img.shields.io/github/languages/top/mohanwithdata/customer-churn-api)  
+![Issues](https://img.shields.io/github/issues/mohanwithdata/customer-churn-api)  
+![Pull Requests](https://img.shields.io/github/issues-pr/mohanwithdata/customer-churn-api)  
+![License](https://img.shields.io/github/license/mohanwithdata/customer-churn-api)  
 
 This repository contains a **Customer Churn Prediction API** built with **FastAPI** and powered by a **machine learning model** trained on customer behavior data. The API helps businesses identify customers at risk of leaving (churning) so that retention strategies can be applied proactively.  
 
@@ -43,7 +43,7 @@ customer-churn-api/
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/customer-churn-api.git
+git clone https://github.com/mohanwithdata/customer-churn-api.git
 cd customer-churn-api
 ```
 
@@ -124,14 +124,6 @@ docker run -d -p 8000:8000 customer-churn-api
 
 ---
 
-## 📈 GitHub Stats  
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&repo=customer-churn-api&layout=compact&theme=radical)  
-
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=customer-churn-api&theme=radical)  
-
----
-
 ## 🌍 Deployment  
 You can deploy this API on:  
 - **AWS EC2 / SageMaker**  
@@ -144,10 +136,10 @@ You can deploy this API on:
 ## 📸 Demo  
 
 ### Swagger UI (`/docs`)
-![Swagger Demo](https://raw.githubusercontent.com/your-username/customer-churn-api/main/demo/swagger.png)  
+![Swagger Demo](https://raw.githubusercontent.com/mohanwithdata/customer-churn-api/main/demo/swagger.png)  
 
 ### Example Prediction Request  
-![Prediction Demo](https://raw.githubusercontent.com/your-username/customer-churn-api/main/demo/prediction.png)  
+![Prediction Demo](https://raw.githubusercontent.com/mohanwithdata/customer-churn-api/main/demo/prediction.png)  
 
 ---
 
@@ -155,7 +147,4 @@ You can deploy this API on:
 Contributions, issues, and feature requests are welcome!  
 Feel free to fork this repo and create a pull request.  
 
----
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
+--- 
