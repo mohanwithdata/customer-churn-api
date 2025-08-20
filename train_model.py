@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 import joblib
 
-df = pd.read_csv('customer_churn_api/data/WA_Fn-UseC_-Telco-Customer-Churn.csv')
+df = pd.read_csv('data/WA_Fn-UseC_-Telco-Customer-Churn.csv')
 
 # Preprocessing
 df['TotalCharges'] = pd.to_numeric(df['TotalCharges'], errors='coerce')
