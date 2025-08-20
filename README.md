@@ -1,5 +1,7 @@
 # 📊 Customer Churn Prediction API  
 
+![Last Commit](https://img.shields.io/github/last-commit/mohanwithdata/customer-churn-api) ![Repo Size](https://img.shields.io/github/repo-size/mohanwithdata/customer-churn-api)  ![Languages](https://img.shields.io/github/languages/count/mohanwithdata/customer-churn-api)  ![Top Language](https://img.shields.io/github/languages/top/mohanwithdata/customer-churn-api)
+
 ## 🛠 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
